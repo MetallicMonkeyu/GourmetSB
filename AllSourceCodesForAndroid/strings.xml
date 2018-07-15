@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GourmetTest</string>
+    <string name="seekbar_left">vegetable</string>
+    <string name="seekbar_right">meat</string>
+    <string name="seekbar_prompt">Choose your preference on vegetables and meat</string>
+    <string name="button_next">next</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="diningCommon_prompt">Which dining commons do you usually go</string>
+    <string name="common_DLG">DLG</string>
+    <string name="common_OTG">Ortega</string>
+    <string name="common_PTL">Portola</string>
+    <string name="common_Carrillo">Carrillo</string>
+    <string name="guide_mainpage">Get started</string>
+    <string name="preference">Preference</string>
+</resources>
